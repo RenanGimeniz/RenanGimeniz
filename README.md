@@ -1,14 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Renan%20Gimeniz&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Consultant&descAlignY=55&descAlign=50" alt="Banner Animado" />
-</div>
+<h1 align="center">Olá, eu sou o Renan Gimeniz! 👋</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Engenheiro+de+Controle+e+Automa%C3%A7%C3%A3o;Especialista+em+IA+e+Machine+Learning;Construindo+Agentes+com+LangChain;Consultor+de+Tecnologia" alt="Typing SVG" />
-  </a>
-</div>
+<h3 align="center">Engenheiro de Controle e Automação e Consultor em IA</h3>
 
-<br>
+---
 
 ## 👨‍💻 Sobre o meu trabalho
 
